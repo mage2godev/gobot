@@ -17,8 +17,6 @@ const (
 	batchSize         = 100
 )
 
-// -tg-bot-token '7773342135:AAG9ozhWHbZnkdoPCxJOLe34wW5Elgt2w_A'
-
 func main() {
 
 	//s := files.New(storagePath)
